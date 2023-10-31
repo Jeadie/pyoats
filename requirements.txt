@@ -1,9 +1,9 @@
-optuna==2.10.0
-darts==0.23
-tensorboard==2.9.1
-numpy==1.22.4
-pandas==1.4.3
-statsmodels==0.13.2
+optuna>=2.10.0
+darts>=0.23
+tensorboard>=2.9.1
+numpy>=1.22.4
+pandas>=1.4.3
+statsmodels>=0.13.2
 scipy>=1.9.0
 pyod>=1.0.4
 stumpy>=1.11.1
